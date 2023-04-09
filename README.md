@@ -19,11 +19,11 @@ or
 
 To run the program, open File Explorer and navigate to the directory where the program is saved. Then, open the program with Visual Studio Code:
 1. Run cell
-![image](D:\SEMESTER 6\Teknologi Nirkabel\Tugas\uts\ARQ-Simulator\screenshots\run cell.png)
+![cell](https://github.com/MirantyAnjaniPutri/ARQ-Simulator/blob/main/screenshots/run%20cell.png)
 2. Enter the value as asked by the program
-![value](D:\SEMESTER 6\Teknologi Nirkabel\Tugas\uts\ARQ-Simulator\screenshots\enter value a.png)
+![value](https://github.com/MirantyAnjaniPutri/ARQ-Simulator/blob/main/screenshots/enter%20value%20a.png)
 3. Display the graph output of the ARQ
-![result](D:\SEMESTER 6\Teknologi Nirkabel\Tugas\uts\ARQ-Simulator\screenshots\result.png)
+![result](https://github.com/MirantyAnjaniPutri/ARQ-Simulator/blob/main/screenshots/result.png)
 
 ## ARQ Methods
 The program can simulate three ARQ methods:
