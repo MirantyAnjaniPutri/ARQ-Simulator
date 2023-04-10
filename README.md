@@ -25,6 +25,8 @@ To run the program, open File Explorer and navigate to the directory where the p
 3. Display the graph output of the ARQ
 ![result](https://github.com/MirantyAnjaniPutri/ARQ-Simulator/blob/main/screenshots/result.png)
 
+The complete guide can be found in ![here](https://github.com/MirantyAnjaniPutri/ARQ-Simulator/blob/c031f8cd5836793d5a83382070319f43f0476091/ARQ%20Simulation%20Guide%20and%20Graph%20Output_Group%207.pdf)
+
 ## ARQ Methods
 The program can simulate three ARQ methods:
 
