@@ -19,11 +19,11 @@ or
 
 To run the program, open File Explorer and navigate to the directory where the program is saved. Then, open the program with Visual Studio Code.
 
-'''
+```
 Run cell
 Enter the value as asked by the program
 Display the graph output of the ARQ
-'''
+```
 
 The complete guide can be found in [here](https://github.com/MirantyAnjaniPutri/ARQ-Simulator/blob/c031f8cd5836793d5a83382070319f43f0476091/ARQ%20Simulation%20Guide%20and%20Graph%20Output_Group%207.pdf)
 
