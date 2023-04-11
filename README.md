@@ -17,15 +17,15 @@ You can also run the program through Google Colaboratory through [this link](htt
 
 or
 
-To run the program, open File Explorer and navigate to the directory where the program is saved. Then, open the program with Visual Studio Code:
-1. Run cell
-![cell](https://github.com/MirantyAnjaniPutri/ARQ-Simulator/blob/main/screenshots/run%20cell.png)
-2. Enter the value as asked by the program
-![value](https://github.com/MirantyAnjaniPutri/ARQ-Simulator/blob/main/screenshots/enter%20value%20a.png)
-3. Display the graph output of the ARQ
-![result](https://github.com/MirantyAnjaniPutri/ARQ-Simulator/blob/main/screenshots/result.png)
+To run the program, open File Explorer and navigate to the directory where the program is saved. Then, open the program with Visual Studio Code.
 
-The complete guide can be found in ![here](https://github.com/MirantyAnjaniPutri/ARQ-Simulator/blob/c031f8cd5836793d5a83382070319f43f0476091/ARQ%20Simulation%20Guide%20and%20Graph%20Output_Group%207.pdf)
+'''
+Run cell
+Enter the value as asked by the program
+Display the graph output of the ARQ
+'''
+
+The complete guide can be found in [here](https://github.com/MirantyAnjaniPutri/ARQ-Simulator/blob/c031f8cd5836793d5a83382070319f43f0476091/ARQ%20Simulation%20Guide%20and%20Graph%20Output_Group%207.pdf)
 
 ## ARQ Methods
 The program can simulate three ARQ methods:
@@ -41,9 +41,9 @@ User can set the parameters for the simulation, such as the packet length in bit
 If you would like to contribute to this program, feel free to fork the GitHub repository and submit a pull request. You can also open an issue if you find a bug or have a suggestion for a new feature.
 
 ## Authors
-1. [Adiva Veronia](https://github.com/adivaveronia)
-2. [Joshevan](https://github.com/Joshevanch)
-3. [Miranty Anjani Putri](https://github.com/MirantyAnjaniPutri)
+1. [Adiva Veronia - NPM 2006468421](https://github.com/adivaveronia)
+2. [Joshevan - NPM 2006577321](https://github.com/Joshevanch)
+3. [Miranty Anjani Putri - NPM 2006468270](https://github.com/MirantyAnjaniPutri)
 
 ## License
 This program is licensed under the MIT License. See the LICENSE file for more information.
